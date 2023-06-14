@@ -10,4 +10,4 @@ Key Features:::
     Media Queries: The layout and styling are adjusted using CSS media queries, ensuring the page looks and functions flawlessly on various screen sizes.
     Originality: While drawing inspiration from validthemes.live, the developer has added their own creativity and unique customizations, giving the webpage a distinct personality and making it stand out.
     
-Note: As the description is specific to your project, feel free to personalize and expand upon it according to your actual implementation and any additional features you may have included.
+Note::: As the description is specific to your project, feel free to personalize and expand upon it according to your actual implementation and any additional features you may have included.
