@@ -2,7 +2,7 @@ This GitHub repository showcases a responsive static frontend page created using
 
 The web page is carefully designed to be visually appealing, user-friendly, and accessible across various devices and screen sizes. It demonstrates the developer's proficiency in HTML and CSS, highlighting their ability to create an engaging and responsive design without relying on additional frameworks or libraries.
 
-Key Features:
+Key Features:::
 
     Responsive Design: The webpage seamlessly adapts its layout and content to different screen resolutions, providing an optimal user experience on desktop computers, tablets, and mobile devices.
     Semantic Markup: The HTML structure follows best practices, utilizing appropriate tags and elements for improved accessibility and search engine optimization.
