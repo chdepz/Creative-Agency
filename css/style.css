@@ -6,6 +6,7 @@
 
   html {
     font-size: 1.5rem;
+    scroll-behavior: smooth;
   }
   body {
     font-family: "Montserrat", sans-serif;
